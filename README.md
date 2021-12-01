@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @daweitianlong201
 - 👀 I’m interested in R
 - 🌱 I’m currently learning bioinformatics and biostatistics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 914051213@qq.com
 
 <!---
